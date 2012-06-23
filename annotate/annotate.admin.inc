@@ -34,5 +34,7 @@ function annotate_admin_settings() {
   
     return system_settings_form($form); 
  
-} 
+}
+
+/* Something added*/ 
  
